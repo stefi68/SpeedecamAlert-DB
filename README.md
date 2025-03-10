@@ -1,0 +1,2 @@
+# SpeedecamAlert-DB
+SpeedtrapAlert database
